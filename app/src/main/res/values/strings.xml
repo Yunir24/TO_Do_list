@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TO Do list</string>
+    <string name="add_new_note">Add new note</string>
+    <string name="edit_note">Введите текст заметки</string>
+    <string name="save">Сохранить</string>
+    <string name="medium">Средний</string>
+    <string name="low">Низкий</string>
+    <string name="high">Высокий</string>
+</resources>
